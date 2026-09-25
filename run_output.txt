@@ -1,0 +1,17 @@
+periodicity error of Pi along orbits: 3.99e-10
+true bounds of Pi on the annulus: 0.2454 <= Pi <= 3.0672
+certified upper bound pibar = 4.3526
+numerical L_Pi = sup ||grad_x Pi|| ~ 2.391
+true contraction rate alpha* (min over annulus) ~ 0.2771
+  alpha*(r=0.4) = 0.2771
+  alpha*(r=1.0) = 0.6465
+  alpha*(r=1.6) = 0.9913
+guaranteed rate with the TRUE floor, q*pi_lo/2 = 0.1227
+alpha_o (window 2pi) ~ 0.5027  (exact value pi*r1^2 = 0.5027);  certified lower bound pi_lo = exp(-q*pibar*To)*alpha_o = 6.67e-13
+Gramian eigenvalues at r=1 over one period: [3.14159265 9.42477796]  (exact: pi, 3pi)
+P0=0.01: final |xt|=2.32e-12, final |P^-1-Pi|=2.96e-11, rate |xt| ~ -0.646, rate Pi ~ -0.647
+P0=1: final |xt|=1.45e-12, final |P^-1-Pi|=2.97e-11, rate |xt| ~ -0.646, rate Pi ~ -0.647
+P0=100: final |xt|=4.11e-14, final |P^-1-Pi|=3.01e-11, rate |xt| ~ -0.646, rate Pi ~ -0.639
+figure saved
+figure 2 saved
+figure 3 saved
