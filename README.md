@@ -4,7 +4,7 @@ Code and figures of Section VII of
 
 > A. Cellier-Devaux, D. Astolfi, V. Andrieu, *On the Convergence of the Extended Kalman Filter and of its Riccati Solution*, submitted to IEEE Transactions on Automatic Control, 2026. Long version: HAL (to appear).
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OWNER/EKFPaper/blob/main/example_oscillator.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vincent69410/EKFPaper/blob/main/example_oscillator.ipynb)
 
 ## The example
 
